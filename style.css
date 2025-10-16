@@ -42,6 +42,9 @@
     border-radius:10%;
     
 }
-.fas {
-    background-color: gray;
+.bi {
+    display: inline-block;
+    width: 2rem;
+    border: 1px;
+border-color: grey;
 }
